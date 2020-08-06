@@ -18,6 +18,7 @@ My name is Abdulsalam, and i'm a computing science student at Umeå University.
 <img align="left" alt="unity" width="26px" src="https://img.icons8.com/ios-filled/color/48/000000/unity.png" />
 <img align="left" alt="android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />
 <img align="left" alt="flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+<img align="left" alt="docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 
 
