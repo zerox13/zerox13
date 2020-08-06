@@ -18,8 +18,7 @@ My name is Abdulsalam, and i'm a computing science student at Umeå University.
 <img align="left" alt="android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />
 <img align="left" alt="flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="console" width="26px" src="https://img.icons8.com/material-rounded/24/000000/console.png" />
-<img align="left" alt="vim" width="26px" src="https://api.iconify.design/logos-vim.svg" />
+
 
 
 <br />
@@ -41,4 +40,8 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<img align="left" alt="console" width="26px" src="https://img.icons8.com/material-rounded/24/000000/console.png" />
+<img align="left" alt="vim" width="26px" src="https://api.iconify.design/logos-vim.svg" />
 -->
