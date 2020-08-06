@@ -1,5 +1,5 @@
 ### Hi there 👋
-My is Abdulsalam, and i'm a computing science student at Umeå University.
+My name is Abdulsalam, and i'm a computing science student at Umeå University.
   - 🔭 I’m currently working on my first unity 2D game.
 #### 📫 You can reach me: ... 
 
