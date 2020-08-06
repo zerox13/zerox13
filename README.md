@@ -1,13 +1,14 @@
 ### Hi there 👋
 My name is Abdulsalam, and i'm a computing science student at Umeå University.
-  - 🔭 I’m currently working on my first unity 2D game.
+- 🔭 I’m currently working on my first unity 2D game.
+- 🤔 I'm looking to make some open source projects, ideas?
   
 ##### 📫 Reach me via: 
 [<img align="left" alt="fb" width="26px"  src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img align="left" alt="ig" width="26px"  src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
   <br />
 
-### I have worked with:
+### I have worked so far with:
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="cpp" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="csh" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
