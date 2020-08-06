@@ -3,7 +3,7 @@ My name is Abdulsalam, and i'm a computing science student at Umeå University.
 - 🔭 I’m currently working on my first unity 2D game.
 - 🤔 I'm looking to make some open source projects, ideas?
   
-##### 📫 Reach me via: 
+**📫 Reach me via:** 
 [<img align="left" alt="fb" width="26px"  src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img align="left" alt="ig" width="26px"  src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
   <br />
