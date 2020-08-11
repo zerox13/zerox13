@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Abdulsalam, and i'm a computing science student at Umeå University.
-- 🔭 I’m currently working on my first unity 2D game.
-- 🤔 I'm looking to contribute on some open source projects, ideas?
-  
+
+>_Make things as simple as possible but no simpler._
+
 📫 **Reach me via:** 
 [<img align="center" alt="fb" width="26px"  src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img align="center" alt="ig" width="26px"  src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
@@ -34,7 +34,9 @@ My name is Abdulsalam, and i'm a computing science student at Umeå University.
 **zerox13/zerox13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently working on my first unity 2D game.
+- 🤔 I'm looking to contribute on some open source projects, ideas?
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
