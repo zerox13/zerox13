@@ -1,7 +1,9 @@
 ### Hi there 👋
 My name is Abdulsalam, and i'm a computing science student at Umeå University.
 
->_Make things as simple as possible but no simpler._
+> _Make things as simple as possible but no simpler._
+> > Albert Einstein
+
 
 📫 **Reach me via:** 
 [<img align="center" alt="fb" width="26px"  src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
