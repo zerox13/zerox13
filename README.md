@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! 👋
 My name is Abdulsalam, and i'm a computing science student at Umeå University.
 
 > _Make things as simple as possible but no simpler._
