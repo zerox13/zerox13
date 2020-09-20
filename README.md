@@ -1,15 +1,10 @@
 ### Hello world! 👋
 
-> _Make things as simple as possible but no simpler._
-> > Albert Einstein
-
-
 📫 **Reach me via:** 
 [<img align="center" alt="fb" width="26px"  src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img align="center" alt="ig" width="26px"  src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
   <br />
 
-##### I have worked so far with:
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="cpp" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="csh" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
