@@ -6,14 +6,10 @@
   <br />
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="left" alt="cpp" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img align="left" alt="csh" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img align="left" alt="javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="unity" width="26px" src="https://img.icons8.com/ios-filled/color/48/000000/unity.png" />
 <img align="left" alt="android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />
-<img align="left" alt="flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
 <img align="left" alt="docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 
