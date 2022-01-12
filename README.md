@@ -4,13 +4,20 @@
 [<img align="center" alt="fb" width="26px"  src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img align="center" alt="ig" width="26px"  src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
   <br />
+  
+ # I Know 
+ 
+ 
 
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="console" width="26px" src="https://img.icons8.com/material-rounded/24/000000/console.png" />
+<img align="left" alt="linux" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/linux--v1.png" />
+<img align="left" alt="vim" width="26px" src="https://api.iconify.design/logos-vim.svg" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />
 <img align="left" alt="docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
 
 
