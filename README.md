@@ -2,14 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;My+Name+is+Abdulsalam;And+I'm+a+programmer+to+code)](https://git.io/typing-svg)
 
 <br/>
-📫 **Reach me via:** 
-[<img align="center" alt="fb" width="26px"  src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
-[<img align="center" alt="ig" width="26px"  src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
-  <br />
+
+
   
- # I Know 
- 
- 
 
 <img align="left" alt="console" width="26px" src="https://img.icons8.com/material-rounded/24/000000/console.png" />
 <img align="left" alt="linux" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/linux--v1.png" />
