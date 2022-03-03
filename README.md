@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;My+Name+is+Abdulsalam;And+I'm+a+programmer+to+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;My+Name+is+Abdulsalam;And+I'm+a+programmer)](https://git.io/typing-svg)
 
 <br/>
 <!--
